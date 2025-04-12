@@ -1,16 +1,14 @@
 ## Hi there 👋
-
-<!--
-**hyemin7032/hyemin7032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... 영남 University
-- 🌱 I’m currently learning ... C++ Progra
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:a6baf7,100:97f7a2&height=180&text=Contact%20Me!&animation=fadeIn&fontColor=ffffff&fontSize=90" />
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div style="text-align: left;">  </div>  <br> 
+    <div style="text-align: left;">  </div> 
+    </div>
+    
